@@ -1,0 +1,15 @@
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\bin\Release\net8.0\Repository.deps.json
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\bin\Release\net8.0\Repository.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\bin\Release\net8.0\Repository.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\bin\Release\net8.0\Domain.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\bin\Release\net8.0\Domain.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.csproj.Up2Date
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\refint\Repository.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\Repository.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\Repository\obj\Release\net8.0\ref\Repository.dll

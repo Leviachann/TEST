@@ -1,0 +1,17 @@
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\Domain.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\Repository.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\Repository.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\bin\Release\net8.0\Domain.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Saliha\Desktop\WareHouseManagement\WareHouseManagement API\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
